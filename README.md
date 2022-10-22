@@ -1,7 +1,7 @@
 
 Architecture:
 
-    Throughout this projectt I used Express HTML, Javascript and Angular on the front end to develop both a 
+    Throughout this project I used Express HTML, Javascript and Angular on the front end to develop both a 
 primary content website and a secondary admin SPA. Most of the Express related work was focused in the public
 facing webpage that allows a user to browse several pages from rooms, trips, cusine and blogs. Express was used
 with the MVC model to build this functionality and serve content (with the help of handlebars templating) to the
